@@ -36,10 +36,11 @@ public class MainActivity extends AppCompatActivity {
     TextView textViewSampleNodeValue;
     ImageView imageViewSatisfied;
     TextView textViewTally;
-    final static int REQUEST_IMAGE_GET = 2000;
 
     //TODO 13 IMPORTANT Get your own google-services.json file
-    /* Create your own firebase instance at console.firebase.google.com */
+    /*** Follow the instructions in the lesson material to
+     * create your own firebase instance at console.firebase.google.com,
+    * so that you can see for yourself how the database is updated */
 
     //TODO 13.0 Plan your database design in advance and create the necessary instance variables
     /* Here's an example. You can see more examples in class FirebaseDatabaseOperations */
